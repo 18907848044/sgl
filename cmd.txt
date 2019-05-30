@@ -1,0 +1,1 @@
+E:\Mu\Python\pythonw.exe "E:\Mu\Mu.launch.pyw"
